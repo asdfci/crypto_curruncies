@@ -1,0 +1,762 @@
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 13:49:07.724000
+
+
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 13:50:30.444000
+
+
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 13:51:19.746000
+
+
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 13:53:21.389000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 13:59:36.732000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 14:04:08.011000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-08-19 14:04:51.040000
+
+
+[]LOADING BALANCES FROM BINANCEStarting Portfolio (Paper): [10.447733600487705, 100.0, 10123.326275380954, 500.0, '2018-08-19 14:05:01.616000']Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650600 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155350 [0.046506, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 2, 153000)]Buy: 0.046506Sell: 0.0464063806906No Arbitrage PossibilityExchange Rate List: [0.046506, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 2, 153000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155350 Currency Pair: NANOBNB Exchange Rate: 0.15840000 Currency Pair: NANOBTC Exchange Rate: 0.00024410 [0.0015535, 0.1584, 0.0002441, datetime.datetime(2018, 8, 19, 14, 5, 3, 710000)]Buy: 0.0015535Sell: 0.00154103535354No Arbitrage PossibilityExchange Rate List: [0.0015535, 0.1584, 0.0002441, datetime.datetime(2018, 8, 19, 14, 5, 3, 710000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155350 Currency Pair: CVCBNB Exchange Rate: 0.01243000 Currency Pair: CVCBTC Exchange Rate: 0.00001909 [0.0015535, 0.01243, 1.909e-05, datetime.datetime(2018, 8, 19, 14, 5, 5, 270000)]Buy: 0.0015535Sell: 0.0015358004827No Arbitrage PossibilityExchange Rate List: [0.0015535, 0.01243, 1.909e-05, datetime.datetime(2018, 8, 19, 14, 5, 5, 270000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6359.28000000 Currency Pair: BNBBTC Exchange Rate: 0.00155470 Currency Pair: BNBUSDT Exchange Rate: 9.87810000 [6359.28, 0.0015547, 9.8781, datetime.datetime(2018, 8, 19, 14, 5, 6, 840000)]Buy: 6359.28Sell: 6353.70167878No Arbitrage PossibilityExchange Rate List: [6359.28, 0.0015547, 9.8781, datetime.datetime(2018, 8, 19, 14, 5, 6, 840000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155340 Currency Pair: THETABNB Exchange Rate: 0.00791000 Currency Pair: THETABTC Exchange Rate: 0.00001220 [0.0015534, 0.00791, 1.22e-05, datetime.datetime(2018, 8, 19, 14, 5, 8, 416000)]Buy: 0.0015534Sell: 0.00154235145386No Arbitrage PossibilityExchange Rate List: [0.0015534, 0.00791, 1.22e-05, datetime.datetime(2018, 8, 19, 14, 5, 8, 416000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 295.74000000 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBUSDT Exchange Rate: 9.87840000 [295.74, 0.033476, 9.8784, datetime.datetime(2018, 8, 19, 14, 5, 9, 969000)]Buy: 295.74Sell: 295.089018999No Arbitrage PossibilityExchange Rate List: [295.74, 0.033476, 9.8784, datetime.datetime(2018, 8, 19, 14, 5, 9, 969000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650500 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155350 [0.046505, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 11, 525000)]Buy: 0.046505Sell: 0.0464063806906No Arbitrage PossibilityExchange Rate List: [0.046505, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 11, 525000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155340 Currency Pair: NANOBNB Exchange Rate: 0.15840000 Currency Pair: NANOBTC Exchange Rate: 0.00024410 [0.0015534, 0.1584, 0.0002441, datetime.datetime(2018, 8, 19, 14, 5, 13, 83000)]Buy: 0.0015534Sell: 0.00154103535354No Arbitrage PossibilityExchange Rate List: [0.0015534, 0.1584, 0.0002441, datetime.datetime(2018, 8, 19, 14, 5, 13, 83000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155340 Currency Pair: CVCBNB Exchange Rate: 0.01243000 Currency Pair: CVCBTC Exchange Rate: 0.00001909 [0.0015534, 0.01243, 1.909e-05, datetime.datetime(2018, 8, 19, 14, 5, 14, 632000)]Buy: 0.0015534Sell: 0.0015358004827No Arbitrage PossibilityExchange Rate List: [0.0015534, 0.01243, 1.909e-05, datetime.datetime(2018, 8, 19, 14, 5, 14, 632000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6359.28000000 Currency Pair: BNBBTC Exchange Rate: 0.00155470 Currency Pair: BNBUSDT Exchange Rate: 9.87900000 [6359.28, 0.0015547, 9.879, datetime.datetime(2018, 8, 19, 14, 5, 16, 418000)]Buy: 6359.28Sell: 6354.2805686No Arbitrage PossibilityExchange Rate List: [6359.28, 0.0015547, 9.879, datetime.datetime(2018, 8, 19, 14, 5, 16, 418000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00155340 Currency Pair: THETABNB Exchange Rate: 0.00791000 Currency Pair: THETABTC Exchange Rate: 0.00001220 [0.0015534, 0.00791, 1.22e-05, datetime.datetime(2018, 8, 19, 14, 5, 18, 164000)]Buy: 0.0015534Sell: 0.00154235145386No Arbitrage PossibilityExchange Rate List: [0.0015534, 0.00791, 1.22e-05, datetime.datetime(2018, 8, 19, 14, 5, 18, 164000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 295.74000000 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBUSDT Exchange Rate: 9.87900000 [295.74, 0.033476, 9.879, datetime.datetime(2018, 8, 19, 14, 5, 20, 226000)]Buy: 295.74Sell: 295.106942287No Arbitrage PossibilityExchange Rate List: [295.74, 0.033476, 9.879, datetime.datetime(2018, 8, 19, 14, 5, 20, 226000), 0]
+
+Most Profitable Market: ['ETHBTC', 'BNBETH', 'BNBBTC'] 
+Expected Profit: 0%Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650600 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155350 [0.046506, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 22, 23000)]Buy: 0.046506Sell: 0.0464063806906No Arbitrage PossibilityExchange Rate List: [0.046506, 0.033476, 0.0015535, datetime.datetime(2018, 8, 19, 14, 5, 22, 23000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04652100 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155360 [0.046521, 0.033476, 0.0015536, datetime.datetime(2018, 8, 19, 14, 5, 53, 576000)]Buy: 0.046521Sell: 0.0464093679054No Arbitrage PossibilityExchange Rate List: [0.046521, 0.033476, 0.0015536, datetime.datetime(2018, 8, 19, 14, 5, 53, 576000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04652100 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155390 [0.046521, 0.033476, 0.0015539, datetime.datetime(2018, 8, 19, 14, 6, 26, 269000)]Buy: 0.046521Sell: 0.0464183295495No Arbitrage PossibilityExchange Rate List: [0.046521, 0.033476, 0.0015539, datetime.datetime(2018, 8, 19, 14, 6, 26, 269000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650200 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155300 [0.046502, 0.033476, 0.001553, datetime.datetime(2018, 8, 19, 14, 6, 57, 843000)]Buy: 0.046502Sell: 0.046391444617No Arbitrage PossibilityExchange Rate List: [0.046502, 0.033476, 0.001553, datetime.datetime(2018, 8, 19, 14, 6, 57, 843000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04651500 Currency Pair: BNBETH Exchange Rate: 0.03339800 Currency Pair: BNBBTC Exchange Rate: 0.00155300 [0.046515, 0.033398, 0.001553, datetime.datetime(2018, 8, 19, 14, 7, 29, 397000)]Buy: 0.046515Sell: 0.0464997904066No Arbitrage PossibilityExchange Rate List: [0.046515, 0.033398, 0.001553, datetime.datetime(2018, 8, 19, 14, 7, 29, 397000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04652100 Currency Pair: BNBETH Exchange Rate: 0.03345600 Currency Pair: BNBBTC Exchange Rate: 0.00155370 [0.046521, 0.033456, 0.0015537, datetime.datetime(2018, 8, 19, 14, 8, 0, 959000)]Buy: 0.046521Sell: 0.0464401004304No Arbitrage PossibilityExchange Rate List: [0.046521, 0.033456, 0.0015537, datetime.datetime(2018, 8, 19, 14, 8, 0, 959000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04652300 Currency Pair: BNBETH Exchange Rate: 0.03345600 Currency Pair: BNBBTC Exchange Rate: 0.00155330 [0.046523, 0.033456, 0.0015533, datetime.datetime(2018, 8, 19, 14, 8, 32, 504000)]Buy: 0.046523Sell: 0.0464281444285No Arbitrage PossibilityExchange Rate List: [0.046523, 0.033456, 0.0015533, datetime.datetime(2018, 8, 19, 14, 8, 32, 504000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04652500 Currency Pair: BNBETH Exchange Rate: 0.03341200 Currency Pair: BNBBTC Exchange Rate: 0.00155480 [0.046525, 0.033412, 0.0015548, datetime.datetime(2018, 8, 19, 14, 9, 4, 59000)]Buy: 0.046525Sell: 0.0465341793368Arbitrage Possibility - Potential Profit (Percentage): 0.0197260097762%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.130273990224PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04651300 Currency Pair: BNBETH Exchange Rate: 0.03343400 Currency Pair: BNBBTC Exchange Rate: 0.00155370 [0.046513, 0.033434, 0.0015537, datetime.datetime(2018, 8, 19, 14, 9, 34, 634000)]Buy: 0.046513Sell: 0.046470658611No Arbitrage PossibilityExchange Rate List: [0.046513, 0.033434, 0.0015537, datetime.datetime(2018, 8, 19, 14, 9, 34, 634000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04651500 Currency Pair: BNBETH Exchange Rate: 0.03343900 Currency Pair: BNBBTC Exchange Rate: 0.00155380 [0.046515, 0.033439, 0.0015538, datetime.datetime(2018, 8, 19, 14, 10, 6, 193000)]Buy: 0.046515Sell: 0.0464667005592No Arbitrage PossibilityExchange Rate List: [0.046515, 0.033439, 0.0015538, datetime.datetime(2018, 8, 19, 14, 10, 6, 193000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04651500 Currency Pair: BNBETH Exchange Rate: 0.03344200 Currency Pair: BNBBTC Exchange Rate: 0.00155420 [0.046515, 0.033442, 0.0015542, datetime.datetime(2018, 8, 19, 14, 10, 37, 747000)]Buy: 0.046515Sell: 0.0464744931523No Arbitrage PossibilityExchange Rate List: [0.046515, 0.033442, 0.0015542, datetime.datetime(2018, 8, 19, 14, 10, 37, 747000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650300 Currency Pair: BNBETH Exchange Rate: 0.03344500 Currency Pair: BNBBTC Exchange Rate: 0.00155450 [0.046503, 0.033445, 0.0015545, datetime.datetime(2018, 8, 19, 14, 11, 9, 305000)]Buy: 0.046503Sell: 0.0464792943639No Arbitrage PossibilityExchange Rate List: [0.046503, 0.033445, 0.0015545, datetime.datetime(2018, 8, 19, 14, 11, 9, 305000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04650400 Currency Pair: BNBETH Exchange Rate: 0.03343300 Currency Pair: BNBBTC Exchange Rate: 0.00155470 [0.046504, 0.033433, 0.0015547, datetime.datetime(2018, 8, 19, 14, 11, 41, 45000)]Buy: 0.046504Sell: 0.0465019591422No Arbitrage PossibilityExchange Rate List: [0.046504, 0.033433, 0.0015547, datetime.datetime(2018, 8, 19, 14, 11, 41, 45000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04647600 Currency Pair: BNBETH Exchange Rate: 0.03343300 Currency Pair: BNBBTC Exchange Rate: 0.00155380 [0.046476, 0.033433, 0.0015538, datetime.datetime(2018, 8, 19, 14, 12, 12, 588000)]Buy: 0.046476Sell: 0.0464750396315No Arbitrage PossibilityExchange Rate List: [0.046476, 0.033433, 0.0015538, datetime.datetime(2018, 8, 19, 14, 12, 12, 588000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04644000 Currency Pair: BNBETH Exchange Rate: 0.03345200 Currency Pair: BNBBTC Exchange Rate: 0.00155400 [0.04644, 0.033452, 0.001554, datetime.datetime(2018, 8, 19, 14, 12, 44, 124000)]Buy: 0.04644Sell: 0.0464546215473Arbitrage Possibility - Potential Profit (Percentage): 0.0314749034749%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.118525096525PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04636100 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155290 [0.046361, 0.033476, 0.0015529, datetime.datetime(2018, 8, 19, 14, 13, 14, 679000)]Buy: 0.046361Sell: 0.0463884574023Arbitrage Possibility - Potential Profit (Percentage): 0.0591901603452%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.0908098396548PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04636200 Currency Pair: BNBETH Exchange Rate: 0.03347600 Currency Pair: BNBBTC Exchange Rate: 0.00155230 [0.046362, 0.033476, 0.0015523, datetime.datetime(2018, 8, 19, 14, 13, 45, 426000)]Buy: 0.046362Sell: 0.046370534114Arbitrage Possibility - Potential Profit (Percentage): 0.0184041744508%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.131595825549PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04636800 Currency Pair: BNBETH Exchange Rate: 0.03347500 Currency Pair: BNBBTC Exchange Rate: 0.00155220 [0.046368, 0.033475, 0.0015522, datetime.datetime(2018, 8, 19, 14, 14, 16, 155000)]Buy: 0.046368Sell: 0.0463689320388Arbitrage Possibility - Potential Profit (Percentage): 0.00201005025127%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.147989949749PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04639500 Currency Pair: BNBETH Exchange Rate: 0.03347500 Currency Pair: BNBBTC Exchange Rate: 0.00155240 [0.046395, 0.033475, 0.0015524, datetime.datetime(2018, 8, 19, 14, 14, 46, 908000)]Buy: 0.046395Sell: 0.0463749066468No Arbitrage PossibilityExchange Rate List: [0.046395, 0.033475, 0.0015524, datetime.datetime(2018, 8, 19, 14, 14, 46, 908000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.04645400 Currency Pair: BNBETH Exchange Rate: 0.03347500 Currency Pair: BNBBTC Exchange Rate: 0.00155390 [0.046454, 0.033475, 0.0015539, datetime.datetime(2018, 8, 19, 14, 15, 18, 859000)]Buy: 0.046454Sell: 0.0464197162061No Arbitrage PossibilityExchange Rate List: [0.046454, 0.033475, 0.0015539, datetime.datetime(2018, 8, 19, 14, 15, 18, 859000), 0]
+ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8231854714FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8235838088FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8237145158FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8237685801FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8238575743FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8240062412FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8239714593FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8241493389FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8241980657FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8209028449FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8209267736FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8210768405FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']ENTERING REAL ORDER: NO FEE PROFIT PERCENTAGE: 99.8211308549FEE PERCENTAGE: 0.15ARBITRAGING: ['RLCBTC', 'RLCBNB', 'BNBBTC']
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-09-24 14:20:03.448000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:36:44.962000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:38:19.921000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:39:18.009000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:39:28.592000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:39:39.374000
+
+
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:39:59.733000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:00.302000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:00.976000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:01.564000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:02.156000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:02.739000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:03.318000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:03.896000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:04.484000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:05.079000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:05.786000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:06.358000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:06.936000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:07.538000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:08.105000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:08.719000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:10.252000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:11.323000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:11.933000
+
+
+[]LOADING BALANCES FROM BINANCE
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:40:12.479000
+
+
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:41:30.289000
+
+
+[]LOADING BALANCES FROM BINANCEStarting Portfolio (Paper): [0.5]Binance Arbitrage Function Data Collection - Running
+Binance Arbitrage Function Data Collection - Running
+Binance Arbitrage Function Data Collection - Running
+Binance Arbitrage Function Data Collection - Running
+Binance Arbitrage Function Data Collection - Running
+Binance Arbitrage Function Data Collection - Running
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:43:41.943000
+
+
+[]LOADING BALANCES FROM BINANCEStarting Portfolio (Paper): [0.5]Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109500 Currency Pair: BNBETH Exchange Rate: 0.04837200 Currency Pair: BNBBTC Exchange Rate: 0.00150330 [0.031095, 0.048372, 0.0015033, datetime.datetime(2018, 10, 23, 14, 43, 43, 686000)]Buy: 0.031095Sell: 0.0310778963036No Arbitrage PossibilityExchange Rate List: [0.031095, 0.048372, 0.0015033, datetime.datetime(2018, 10, 23, 14, 43, 43, 686000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: NANOBNB Exchange Rate: 0.21100000 Currency Pair: NANOBTC Exchange Rate: 0.00031630 [0.0015033, 0.211, 0.0003163, datetime.datetime(2018, 10, 23, 14, 43, 45, 943000)]Buy: 0.0015033Sell: 0.0014990521327No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.211, 0.0003163, datetime.datetime(2018, 10, 23, 14, 43, 45, 943000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: CVCBNB Exchange Rate: 0.01389000 Currency Pair: CVCBTC Exchange Rate: 0.00002065 [0.0015033, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 43, 47, 479000)]Buy: 0.0015033Sell: 0.00148668106551No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 43, 47, 479000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6539.08000000 Currency Pair: BNBBTC Exchange Rate: 0.00150480 Currency Pair: BNBUSDT Exchange Rate: 9.83740000 [6539.08, 0.0015048, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 49, 341000)]Buy: 6539.08Sell: 6537.34715577No Arbitrage PossibilityExchange Rate List: [6539.08, 0.0015048, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 49, 341000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: THETABNB Exchange Rate: 0.00903000 Currency Pair: THETABTC Exchange Rate: 0.00001351 [0.0015033, 0.00903, 1.351e-05, datetime.datetime(2018, 10, 23, 14, 43, 50, 908000)]Buy: 0.0015033Sell: 0.00149612403101No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.00903, 1.351e-05, datetime.datetime(2018, 10, 23, 14, 43, 50, 908000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 203.54000000 Currency Pair: BNBETH Exchange Rate: 0.04837200 Currency Pair: BNBUSDT Exchange Rate: 9.83740000 [203.54, 0.048372, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 52, 456000)]Buy: 203.54Sell: 203.369718019No Arbitrage PossibilityExchange Rate List: [203.54, 0.048372, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 52, 456000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109800 Currency Pair: BNBETH Exchange Rate: 0.04837200 Currency Pair: BNBBTC Exchange Rate: 0.00150330 [0.031098, 0.048372, 0.0015033, datetime.datetime(2018, 10, 23, 14, 43, 53, 987000)]Buy: 0.031098Sell: 0.0310778963036No Arbitrage PossibilityExchange Rate List: [0.031098, 0.048372, 0.0015033, datetime.datetime(2018, 10, 23, 14, 43, 53, 987000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: NANOBNB Exchange Rate: 0.21100000 Currency Pair: NANOBTC Exchange Rate: 0.00031630 [0.0015033, 0.211, 0.0003163, datetime.datetime(2018, 10, 23, 14, 43, 55, 522000)]Buy: 0.0015033Sell: 0.0014990521327No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.211, 0.0003163, datetime.datetime(2018, 10, 23, 14, 43, 55, 522000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: CVCBNB Exchange Rate: 0.01389000 Currency Pair: CVCBTC Exchange Rate: 0.00002065 [0.0015033, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 43, 57, 65000)]Buy: 0.0015033Sell: 0.00148668106551No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 43, 57, 65000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6539.10000000 Currency Pair: BNBBTC Exchange Rate: 0.00150480 Currency Pair: BNBUSDT Exchange Rate: 9.83740000 [6539.1, 0.0015048, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 58, 609000)]Buy: 6539.1Sell: 6537.34715577No Arbitrage PossibilityExchange Rate List: [6539.1, 0.0015048, 9.8374, datetime.datetime(2018, 10, 23, 14, 43, 58, 609000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150330 Currency Pair: THETABNB Exchange Rate: 0.00903000 Currency Pair: THETABTC Exchange Rate: 0.00001351 [0.0015033, 0.00903, 1.351e-05, datetime.datetime(2018, 10, 23, 14, 44, 0, 458000)]Buy: 0.0015033Sell: 0.00149612403101No Arbitrage PossibilityExchange Rate List: [0.0015033, 0.00903, 1.351e-05, datetime.datetime(2018, 10, 23, 14, 44, 0, 458000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 203.54000000 Currency Pair: BNBETH Exchange Rate: 0.04837200 Currency Pair: BNBUSDT Exchange Rate: 9.83740000 [203.54, 0.048372, 9.8374, datetime.datetime(2018, 10, 23, 14, 44, 2, 321000)]Buy: 203.54Sell: 203.369718019No Arbitrage PossibilityExchange Rate List: [203.54, 0.048372, 9.8374, datetime.datetime(2018, 10, 23, 14, 44, 2, 321000), 0]
+
+Most Profitable Market: ['ETHBTC', 'BNBETH', 'BNBBTC'] 
+Expected Profit: 0%Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110500 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150320 [0.031105, 0.048371, 0.0015032, datetime.datetime(2018, 10, 23, 14, 44, 3, 861000)]Buy: 0.031105Sell: 0.0310764714395No Arbitrage PossibilityExchange Rate List: [0.031105, 0.048371, 0.0015032, datetime.datetime(2018, 10, 23, 14, 44, 3, 861000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111200 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150320 [0.031112, 0.048371, 0.0015032, datetime.datetime(2018, 10, 23, 14, 44, 36, 8000)]Buy: 0.031112Sell: 0.0310764714395No Arbitrage PossibilityExchange Rate List: [0.031112, 0.048371, 0.0015032, datetime.datetime(2018, 10, 23, 14, 44, 36, 8000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111700 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150340 [0.031117, 0.048371, 0.0015034, datetime.datetime(2018, 10, 23, 14, 45, 7, 845000)]Buy: 0.031117Sell: 0.0310806061483No Arbitrage PossibilityExchange Rate List: [0.031117, 0.048371, 0.0015034, datetime.datetime(2018, 10, 23, 14, 45, 7, 845000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03112600 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150490 [0.031126, 0.048371, 0.0015049, datetime.datetime(2018, 10, 23, 14, 45, 39, 386000)]Buy: 0.031126Sell: 0.0311116164644No Arbitrage PossibilityExchange Rate List: [0.031126, 0.048371, 0.0015049, datetime.datetime(2018, 10, 23, 14, 45, 39, 386000), 0]
+
+
+---------------------------------------------------------
+
+Hello and Welcome to the Binance Arbitrage Crypto Trader Bot Python Script
+Created 2018 by Joaquin Roibal (@BlockchainEng)A quick 'run-through' will be performed to introduce you to the functionality of this bot
+To learn more visit medium.com/@BlockchainEng or watch introductory Youtube Videos
+Copyright 2018 by Joaquin Roibal
+
+Bot Start Time: 2018-10-23 14:46:44.239000
+
+
+[]LOADING BALANCES FROM BINANCEStarting Portfolio (Paper): [2]Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03112500 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150410 [0.031125, 0.048371, 0.0015041, datetime.datetime(2018, 10, 23, 14, 46, 45, 624000)]Buy: 0.031125Sell: 0.0310950776292No Arbitrage PossibilityExchange Rate List: [0.031125, 0.048371, 0.0015041, datetime.datetime(2018, 10, 23, 14, 46, 45, 624000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150410 Currency Pair: NANOBNB Exchange Rate: 0.21020000 Currency Pair: NANOBTC Exchange Rate: 0.00031530 [0.0015041, 0.2102, 0.0003153, datetime.datetime(2018, 10, 23, 14, 46, 47, 847000)]Buy: 0.0015041Sell: 0.0015No Arbitrage PossibilityExchange Rate List: [0.0015041, 0.2102, 0.0003153, datetime.datetime(2018, 10, 23, 14, 46, 47, 847000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150420 Currency Pair: CVCBNB Exchange Rate: 0.01389000 Currency Pair: CVCBTC Exchange Rate: 0.00002065 [0.0015042, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 46, 49, 697000)]Buy: 0.0015042Sell: 0.00148668106551No Arbitrage PossibilityExchange Rate List: [0.0015042, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 46, 49, 697000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6537.71000000 Currency Pair: BNBBTC Exchange Rate: 0.00150530 Currency Pair: BNBUSDT Exchange Rate: 9.83400000 [6537.71, 0.0015053, 9.834, datetime.datetime(2018, 10, 23, 14, 46, 51, 237000)]Buy: 6537.71Sell: 6532.91702651No Arbitrage PossibilityExchange Rate List: [6537.71, 0.0015053, 9.834, datetime.datetime(2018, 10, 23, 14, 46, 51, 237000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150420 Currency Pair: THETABNB Exchange Rate: 0.00903000 Currency Pair: THETABTC Exchange Rate: 0.00001350 [0.0015042, 0.00903, 1.35e-05, datetime.datetime(2018, 10, 23, 14, 46, 52, 775000)]Buy: 0.0015042Sell: 0.0014950166113No Arbitrage PossibilityExchange Rate List: [0.0015042, 0.00903, 1.35e-05, datetime.datetime(2018, 10, 23, 14, 46, 52, 775000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 203.43000000 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBUSDT Exchange Rate: 9.83400000 [203.43, 0.048371, 9.834, datetime.datetime(2018, 10, 23, 14, 46, 54, 309000)]Buy: 203.43Sell: 203.303632342No Arbitrage PossibilityExchange Rate List: [203.43, 0.048371, 9.834, datetime.datetime(2018, 10, 23, 14, 46, 54, 309000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03112200 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150530 [0.031122, 0.048371, 0.0015053, datetime.datetime(2018, 10, 23, 14, 46, 55, 843000)]Buy: 0.031122Sell: 0.031119885882No Arbitrage PossibilityExchange Rate List: [0.031122, 0.048371, 0.0015053, datetime.datetime(2018, 10, 23, 14, 46, 55, 843000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150530 Currency Pair: NANOBNB Exchange Rate: 0.21020000 Currency Pair: NANOBTC Exchange Rate: 0.00031530 [0.0015053, 0.2102, 0.0003153, datetime.datetime(2018, 10, 23, 14, 46, 57, 397000)]Buy: 0.0015053Sell: 0.0015No Arbitrage PossibilityExchange Rate List: [0.0015053, 0.2102, 0.0003153, datetime.datetime(2018, 10, 23, 14, 46, 57, 397000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150530 Currency Pair: CVCBNB Exchange Rate: 0.01389000 Currency Pair: CVCBTC Exchange Rate: 0.00002065 [0.0015053, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 46, 58, 936000)]Buy: 0.0015053Sell: 0.00148668106551No Arbitrage PossibilityExchange Rate List: [0.0015053, 0.01389, 2.065e-05, datetime.datetime(2018, 10, 23, 14, 46, 58, 936000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BTCUSDT Exchange Rate: 6537.90000000 Currency Pair: BNBBTC Exchange Rate: 0.00150530 Currency Pair: BNBUSDT Exchange Rate: 9.83400000 [6537.9, 0.0015053, 9.834, datetime.datetime(2018, 10, 23, 14, 47, 0, 478000)]Buy: 6537.9Sell: 6532.91702651No Arbitrage PossibilityExchange Rate List: [6537.9, 0.0015053, 9.834, datetime.datetime(2018, 10, 23, 14, 47, 0, 478000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: BNBBTC Exchange Rate: 0.00150420 Currency Pair: THETABNB Exchange Rate: 0.00903000 Currency Pair: THETABTC Exchange Rate: 0.00001350 [0.0015042, 0.00903, 1.35e-05, datetime.datetime(2018, 10, 23, 14, 47, 2, 14000)]Buy: 0.0015042Sell: 0.0014950166113No Arbitrage PossibilityExchange Rate List: [0.0015042, 0.00903, 1.35e-05, datetime.datetime(2018, 10, 23, 14, 47, 2, 14000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHUSDT Exchange Rate: 203.43000000 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBUSDT Exchange Rate: 9.83400000 [203.43, 0.048371, 9.834, datetime.datetime(2018, 10, 23, 14, 47, 3, 556000)]Buy: 203.43Sell: 203.303632342No Arbitrage PossibilityExchange Rate List: [203.43, 0.048371, 9.834, datetime.datetime(2018, 10, 23, 14, 47, 3, 556000), 0]
+
+Most Profitable Market: ['ETHBTC', 'BNBETH', 'BNBBTC'] 
+Expected Profit: 0%Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03112000 Currency Pair: BNBETH Exchange Rate: 0.04837100 Currency Pair: BNBBTC Exchange Rate: 0.00150420 [0.03112, 0.048371, 0.0015042, datetime.datetime(2018, 10, 23, 14, 47, 5, 104000)]Buy: 0.03112Sell: 0.0310971449836No Arbitrage PossibilityExchange Rate List: [0.03112, 0.048371, 0.0015042, datetime.datetime(2018, 10, 23, 14, 47, 5, 104000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111800 Currency Pair: BNBETH Exchange Rate: 0.04838900 Currency Pair: BNBBTC Exchange Rate: 0.00150500 [0.031118, 0.048389, 0.001505, datetime.datetime(2018, 10, 23, 14, 47, 36, 940000)]Buy: 0.031118Sell: 0.0311021099837No Arbitrage PossibilityExchange Rate List: [0.031118, 0.048389, 0.001505, datetime.datetime(2018, 10, 23, 14, 47, 36, 940000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03112100 Currency Pair: BNBETH Exchange Rate: 0.04838900 Currency Pair: BNBBTC Exchange Rate: 0.00150460 [0.031121, 0.048389, 0.0015046, datetime.datetime(2018, 10, 23, 14, 48, 8, 480000)]Buy: 0.031121Sell: 0.0310938436422No Arbitrage PossibilityExchange Rate List: [0.031121, 0.048389, 0.0015046, datetime.datetime(2018, 10, 23, 14, 48, 8, 480000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111900 Currency Pair: BNBETH Exchange Rate: 0.04838900 Currency Pair: BNBBTC Exchange Rate: 0.00150460 [0.031119, 0.048389, 0.0015046, datetime.datetime(2018, 10, 23, 14, 48, 40, 412000)]Buy: 0.031119Sell: 0.0310938436422No Arbitrage PossibilityExchange Rate List: [0.031119, 0.048389, 0.0015046, datetime.datetime(2018, 10, 23, 14, 48, 40, 412000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108400 Currency Pair: BNBETH Exchange Rate: 0.04840100 Currency Pair: BNBBTC Exchange Rate: 0.00150450 [0.031084, 0.048401, 0.0015045, datetime.datetime(2018, 10, 23, 14, 49, 12, 247000)]Buy: 0.031084Sell: 0.031084068511Arbitrage Possibility - Potential Profit (Percentage): 0.00022040545031%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.14977959455PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03107900 Currency Pair: BNBETH Exchange Rate: 0.04840100 Currency Pair: BNBBTC Exchange Rate: 0.00150410 [0.031079, 0.048401, 0.0015041, datetime.datetime(2018, 10, 23, 14, 49, 42, 803000)]Buy: 0.031079Sell: 0.0310758042189No Arbitrage PossibilityExchange Rate List: [0.031079, 0.048401, 0.0015041, datetime.datetime(2018, 10, 23, 14, 49, 42, 803000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108300 Currency Pair: BNBETH Exchange Rate: 0.04841500 Currency Pair: BNBBTC Exchange Rate: 0.00150630 [0.031083, 0.048415, 0.0015063, datetime.datetime(2018, 10, 23, 14, 50, 14, 342000)]Buy: 0.031083Sell: 0.0311122585975Arbitrage Possibility - Potential Profit (Percentage): 0.0940420235013%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.0559579764987PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108800 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150410 [0.031088, 0.048434, 0.0015041, datetime.datetime(2018, 10, 23, 14, 50, 44, 886000)]Buy: 0.031088Sell: 0.0310546310443No Arbitrage PossibilityExchange Rate List: [0.031088, 0.048434, 0.0015041, datetime.datetime(2018, 10, 23, 14, 50, 44, 886000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108600 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150420 [0.031086, 0.048434, 0.0015042, datetime.datetime(2018, 10, 23, 14, 51, 16, 438000)]Buy: 0.031086Sell: 0.0310566957096No Arbitrage PossibilityExchange Rate List: [0.031086, 0.048434, 0.0015042, datetime.datetime(2018, 10, 23, 14, 51, 16, 438000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109900 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150390 [0.031099, 0.048434, 0.0015039, datetime.datetime(2018, 10, 23, 14, 51, 47, 977000)]Buy: 0.031099Sell: 0.0310505017137No Arbitrage PossibilityExchange Rate List: [0.031099, 0.048434, 0.0015039, datetime.datetime(2018, 10, 23, 14, 51, 47, 977000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110700 Currency Pair: BNBETH Exchange Rate: 0.04842700 Currency Pair: BNBBTC Exchange Rate: 0.00150440 [0.031107, 0.048427, 0.0015044, datetime.datetime(2018, 10, 23, 14, 52, 19, 818000)]Buy: 0.031107Sell: 0.0310653148037No Arbitrage PossibilityExchange Rate List: [0.031107, 0.048427, 0.0015044, datetime.datetime(2018, 10, 23, 14, 52, 19, 818000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109800 Currency Pair: BNBETH Exchange Rate: 0.04842300 Currency Pair: BNBBTC Exchange Rate: 0.00150420 [0.031098, 0.048423, 0.0015042, datetime.datetime(2018, 10, 23, 14, 52, 51, 361000)]Buy: 0.031098Sell: 0.031063750697No Arbitrage PossibilityExchange Rate List: [0.031098, 0.048423, 0.0015042, datetime.datetime(2018, 10, 23, 14, 52, 51, 361000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110700 Currency Pair: BNBETH Exchange Rate: 0.04840000 Currency Pair: BNBBTC Exchange Rate: 0.00150550 [0.031107, 0.0484, 0.0015055, datetime.datetime(2018, 10, 23, 14, 53, 22, 904000)]Buy: 0.031107Sell: 0.0311053719008No Arbitrage PossibilityExchange Rate List: [0.031107, 0.0484, 0.0015055, datetime.datetime(2018, 10, 23, 14, 53, 22, 904000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111000 Currency Pair: BNBETH Exchange Rate: 0.04843300 Currency Pair: BNBBTC Exchange Rate: 0.00150430 [0.03111, 0.048433, 0.0015043, datetime.datetime(2018, 10, 23, 14, 53, 54, 757000)]Buy: 0.03111Sell: 0.0310594016476No Arbitrage PossibilityExchange Rate List: [0.03111, 0.048433, 0.0015043, datetime.datetime(2018, 10, 23, 14, 53, 54, 757000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109000 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150460 [0.03109, 0.048434, 0.0015046, datetime.datetime(2018, 10, 23, 14, 54, 27, 88000)]Buy: 0.03109Sell: 0.0310649543709No Arbitrage PossibilityExchange Rate List: [0.03109, 0.048434, 0.0015046, datetime.datetime(2018, 10, 23, 14, 54, 27, 88000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03107500 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150350 [0.031075, 0.048434, 0.0015035, datetime.datetime(2018, 10, 23, 14, 54, 58, 945000)]Buy: 0.031075Sell: 0.0310422430524No Arbitrage PossibilityExchange Rate List: [0.031075, 0.048434, 0.0015035, datetime.datetime(2018, 10, 23, 14, 54, 58, 945000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03106500 Currency Pair: BNBETH Exchange Rate: 0.04843400 Currency Pair: BNBBTC Exchange Rate: 0.00150330 [0.031065, 0.048434, 0.0015033, datetime.datetime(2018, 10, 23, 14, 55, 31, 109000)]Buy: 0.031065Sell: 0.0310381137218No Arbitrage PossibilityExchange Rate List: [0.031065, 0.048434, 0.0015033, datetime.datetime(2018, 10, 23, 14, 55, 31, 109000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110200 Currency Pair: BNBETH Exchange Rate: 0.04841200 Currency Pair: BNBBTC Exchange Rate: 0.00150390 [0.031102, 0.048412, 0.0015039, datetime.datetime(2018, 10, 23, 14, 56, 2, 971000)]Buy: 0.031102Sell: 0.0310646120796No Arbitrage PossibilityExchange Rate List: [0.031102, 0.048412, 0.0015039, datetime.datetime(2018, 10, 23, 14, 56, 2, 971000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111000 Currency Pair: BNBETH Exchange Rate: 0.04840900 Currency Pair: BNBBTC Exchange Rate: 0.00150390 [0.03111, 0.048409, 0.0015039, datetime.datetime(2018, 10, 23, 14, 56, 34, 549000)]Buy: 0.03111Sell: 0.0310665372142No Arbitrage PossibilityExchange Rate List: [0.03111, 0.048409, 0.0015039, datetime.datetime(2018, 10, 23, 14, 56, 34, 549000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111600 Currency Pair: BNBETH Exchange Rate: 0.04833600 Currency Pair: BNBBTC Exchange Rate: 0.00150340 [0.031116, 0.048336, 0.0015034, datetime.datetime(2018, 10, 23, 14, 57, 6, 95000)]Buy: 0.031116Sell: 0.0311031115525No Arbitrage PossibilityExchange Rate List: [0.031116, 0.048336, 0.0015034, datetime.datetime(2018, 10, 23, 14, 57, 6, 95000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111900 Currency Pair: BNBETH Exchange Rate: 0.04833600 Currency Pair: BNBBTC Exchange Rate: 0.00150310 [0.031119, 0.048336, 0.0015031, datetime.datetime(2018, 10, 23, 14, 57, 37, 786000)]Buy: 0.031119Sell: 0.0310969049983No Arbitrage PossibilityExchange Rate List: [0.031119, 0.048336, 0.0015031, datetime.datetime(2018, 10, 23, 14, 57, 37, 786000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111700 Currency Pair: BNBETH Exchange Rate: 0.04840400 Currency Pair: BNBBTC Exchange Rate: 0.00150270 [0.031117, 0.048404, 0.0015027, datetime.datetime(2018, 10, 23, 14, 58, 9, 342000)]Buy: 0.031117Sell: 0.0310449549624No Arbitrage PossibilityExchange Rate List: [0.031117, 0.048404, 0.0015027, datetime.datetime(2018, 10, 23, 14, 58, 9, 342000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03111800 Currency Pair: BNBETH Exchange Rate: 0.04840000 Currency Pair: BNBBTC Exchange Rate: 0.00150270 [0.031118, 0.0484, 0.0015027, datetime.datetime(2018, 10, 23, 14, 58, 40, 879000)]Buy: 0.031118Sell: 0.0310475206612No Arbitrage PossibilityExchange Rate List: [0.031118, 0.0484, 0.0015027, datetime.datetime(2018, 10, 23, 14, 58, 40, 879000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110500 Currency Pair: BNBETH Exchange Rate: 0.04839000 Currency Pair: BNBBTC Exchange Rate: 0.00150380 [0.031105, 0.04839, 0.0015038, datetime.datetime(2018, 10, 23, 14, 59, 13, 381000)]Buy: 0.031105Sell: 0.0310766687332No Arbitrage PossibilityExchange Rate List: [0.031105, 0.04839, 0.0015038, datetime.datetime(2018, 10, 23, 14, 59, 13, 381000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03106900 Currency Pair: BNBETH Exchange Rate: 0.04839900 Currency Pair: BNBBTC Exchange Rate: 0.00150380 [0.031069, 0.048399, 0.0015038, datetime.datetime(2018, 10, 23, 14, 59, 44, 935000)]Buy: 0.031069Sell: 0.0310708898944Arbitrage Possibility - Potential Profit (Percentage): 0.00608252427185%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.143917475728PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110500 Currency Pair: BNBETH Exchange Rate: 0.04839600 Currency Pair: BNBBTC Exchange Rate: 0.00150380 [0.031105, 0.048396, 0.0015038, datetime.datetime(2018, 10, 23, 15, 0, 15, 855000)]Buy: 0.031105Sell: 0.0310728159352No Arbitrage PossibilityExchange Rate List: [0.031105, 0.048396, 0.0015038, datetime.datetime(2018, 10, 23, 15, 0, 15, 855000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109500 Currency Pair: BNBETH Exchange Rate: 0.04839800 Currency Pair: BNBBTC Exchange Rate: 0.00150410 [0.031095, 0.048398, 0.0015041, datetime.datetime(2018, 10, 23, 15, 0, 47, 394000)]Buy: 0.031095Sell: 0.0310777304847No Arbitrage PossibilityExchange Rate List: [0.031095, 0.048398, 0.0015041, datetime.datetime(2018, 10, 23, 15, 0, 47, 394000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03110100 Currency Pair: BNBETH Exchange Rate: 0.04839900 Currency Pair: BNBBTC Exchange Rate: 0.00150410 [0.031101, 0.048399, 0.0015041, datetime.datetime(2018, 10, 23, 15, 1, 19, 742000)]Buy: 0.031101Sell: 0.0310770883696No Arbitrage PossibilityExchange Rate List: [0.031101, 0.048399, 0.0015041, datetime.datetime(2018, 10, 23, 15, 1, 19, 742000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109900 Currency Pair: BNBETH Exchange Rate: 0.04839900 Currency Pair: BNBBTC Exchange Rate: 0.00150480 [0.031099, 0.048399, 0.0015048, datetime.datetime(2018, 10, 23, 15, 1, 51, 965000)]Buy: 0.031099Sell: 0.0310915514783No Arbitrage PossibilityExchange Rate List: [0.031099, 0.048399, 0.0015048, datetime.datetime(2018, 10, 23, 15, 1, 51, 965000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108600 Currency Pair: BNBETH Exchange Rate: 0.04843900 Currency Pair: BNBBTC Exchange Rate: 0.00150480 [0.031086, 0.048439, 0.0015048, datetime.datetime(2018, 10, 23, 15, 2, 23, 813000)]Buy: 0.031086Sell: 0.0310658766696No Arbitrage PossibilityExchange Rate List: [0.031086, 0.048439, 0.0015048, datetime.datetime(2018, 10, 23, 15, 2, 23, 813000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03109100 Currency Pair: BNBETH Exchange Rate: 0.04844000 Currency Pair: BNBBTC Exchange Rate: 0.00150480 [0.031091, 0.04844, 0.0015048, datetime.datetime(2018, 10, 23, 15, 2, 55, 353000)]Buy: 0.031091Sell: 0.0310652353427No Arbitrage PossibilityExchange Rate List: [0.031091, 0.04844, 0.0015048, datetime.datetime(2018, 10, 23, 15, 2, 55, 353000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03108400 Currency Pair: BNBETH Exchange Rate: 0.04844000 Currency Pair: BNBBTC Exchange Rate: 0.00150490 [0.031084, 0.04844, 0.0015049, datetime.datetime(2018, 10, 23, 15, 3, 26, 898000)]Buy: 0.031084Sell: 0.0310672997523No Arbitrage PossibilityExchange Rate List: [0.031084, 0.04844, 0.0015049, datetime.datetime(2018, 10, 23, 15, 3, 26, 898000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03107400 Currency Pair: BNBETH Exchange Rate: 0.04844000 Currency Pair: BNBBTC Exchange Rate: 0.00150510 [0.031074, 0.04844, 0.0015051, datetime.datetime(2018, 10, 23, 15, 3, 58, 783000)]Buy: 0.031074Sell: 0.0310714285714No Arbitrage PossibilityExchange Rate List: [0.031074, 0.04844, 0.0015051, datetime.datetime(2018, 10, 23, 15, 3, 58, 783000), 0]
+Binance Arbitrage Function Data Collection - Running
+Data Collection Cycle Number: 0
+Currency Pair: ETHBTC Exchange Rate: 0.03107500 Currency Pair: BNBETH Exchange Rate: 0.04844000 Currency Pair: BNBBTC Exchange Rate: 0.00150530 [0.031075, 0.04844, 0.0015053, datetime.datetime(2018, 10, 23, 15, 4, 30, 930000)]Buy: 0.031075Sell: 0.0310755573906Arbitrage Possibility - Potential Profit (Percentage): 0.00179366239288%
+
+Potential Fees (Percentage): 0.15
+Adjusted Profit (Percentage): -0.148206337607PLACING ORDER
+STARTING TRI ARB PAPER TRADING FUNCTION
